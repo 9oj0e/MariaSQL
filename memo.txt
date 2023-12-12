@@ -1,0 +1,21 @@
+
+cmd 명령어
+	'cd (DIRECTORY)' 해당 폴더이동
+	'cd..' 하위 폴더 이동
+
+cd..로 최하위폴더 C:// 까지 이동한 뒤
+'mariadb -u root -p' 입력
+password 입력
+'
+
+mariadb 명령어
+use DATABASE; --database명 입력
+show tables;
+desc TABLE; -- table명 입력
+create table TABLE(
+c1
+c2
+);
+desc TABLE;
+
+exit
